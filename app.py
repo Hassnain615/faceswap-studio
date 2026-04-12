@@ -11,7 +11,7 @@ st.caption("Face swap with audio • CPU optimised • lip-sync accurate")
 
 # ── Auto-download model from Google Drive ────────────────────────────────────
 # REPLACE the FILE_ID below with your own Google Drive file ID
-GDRIVE_FILE_ID = "YOUR_GOOGLE_DRIVE_FILE_ID_HERE"
+GDRIVE_FILE_ID = "1QN8nJsaVl_7OKW36b7KfBjZuYXUYs44B"
 MODEL_PATH = os.path.join(os.path.dirname(os.path.abspath(__file__)),
                           "models", "inswapper_128.onnx")
 
