@@ -1,0 +1,37 @@
+# Model files (too large for GitHub)
+models/*.onnx
+models/*.pth
+models/*.bin
+
+# Keep the models folder itself
+!models/
+!models/README.txt
+
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.eggs/
+dist/
+build/
+.env
+.venv
+venv/
+env/
+*.venv
+
+# Temp / output files
+temp_uploads/
+outputs/
+*.mp4
+*.avi
+*.mov
+*.mkv
+
+# Streamlit
+.streamlit/
+
+# OS
+.DS_Store
+Thumbs.db
+desktop.ini
