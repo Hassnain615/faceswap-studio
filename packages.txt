@@ -1,7 +1,7 @@
 build-essential
 cmake
 g++
-libgl1-mesa-glx
+libgl1
 libsm6
 libxext6
 libxrender-dev
