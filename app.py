@@ -9,7 +9,7 @@ st.set_page_config(page_title="Face Swap Studio", page_icon="🎭", layout="cent
 st.title("🎭 Face Swap Studio")
 st.caption("Face swap with audio • CPU optimised • lip-sync accurate")
 
-# ── Auto-download model from Google Drive ───────────────────────────────────
+# ── Auto-download model from Google Drive ──────────────────────────────────
 # REPLACE the FILE_ID below with your own Google Drive file ID
 GDRIVE_FILE_ID = "1QN8nJsaVl_7OKW36b7KfBjZuYXUYs44B"
 MODEL_PATH = os.path.join(os.path.dirname(os.path.abspath(__file__)),
