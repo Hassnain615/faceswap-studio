@@ -234,7 +234,7 @@ if src_file and vid_file:
                 conf_thresh = confidence,
                 max_frames  = int(limit),
             )
-            st.success("✅ Face swap complete!")
+            st.success("Face swap complete!")
             st.video(result)
             with open(result, "rb") as f:
                 st.download_button(
