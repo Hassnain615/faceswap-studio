@@ -230,7 +230,9 @@ The developers are not responsible for misuse of this software.
 | `Pillow` | Image decoding |
 
 ---
-
+Authors 
+Hassnain Soomro
+Shoaib Ahmed Bullo
 ## 📄 License
 
 This project uses InsightFace models which are available for **non-commercial research use only**.  
